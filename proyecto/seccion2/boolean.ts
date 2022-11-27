@@ -1,0 +1,14 @@
+let soy_alto: boolean = true;
+let soy_fan: Boolean = false;
+
+//soy_alto = 20;
+console.log(soy_alto, "Soy alto")
+console.log(soy_fan, "Soy fan")
+// Operador de Conjuncion (y)
+console.log(soy_alto && soy_fan)
+// Operador de disjuncion (o)
+console.log(soy_alto || soy_fan)
+
+// Metodo
+
+console.log(soy_alto.valueOf())
